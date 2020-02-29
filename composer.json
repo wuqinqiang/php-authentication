@@ -1,0 +1,17 @@
+{
+    "name": "remember/php-authentication",
+    "description": "this is authentication for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuqinqiang",
+            "email": "1185079673@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Remember\\Auth\\": "src/"
+        }
+    }
+}
